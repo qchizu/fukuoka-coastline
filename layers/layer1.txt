@@ -1,0 +1,17 @@
+{
+  "layers": [
+    {
+      "type": "Layer",
+      "id": "ameniwa_1",
+      "title": "雨庭",
+      "iconUrl": "",
+      "url": "https://raw.githubusercontent.com/qchizu/ameniwa_test/refs/heads/main/data/test/2/3/1.geojson",
+      "subdomains": "",
+      "attribution": "",
+      "errorTileUrl": "",
+      "cocotile": false,
+      "legendUrl": "",
+      "html": ""
+    }
+  ]
+}
