@@ -2,16 +2,16 @@
   "layers": [
     {
       "type": "Layer",
-      "id": "ameniwa_1",
-      "title": "雨庭",
+      "id": "fukuoka-coastline-1900",
+      "title": "1900年ごろの海岸線",
       "iconUrl": "",
-      "url": "https://raw.githubusercontent.com/qchizu/ameniwa_test/refs/heads/main/data/test/2/3/1.geojson",
+      "url": "https://raw.githubusercontent.com/qchizu/fukuoka-coastline/refs/heads/main/data/1900.geojson",
       "subdomains": "",
-      "attribution": "",
+      "attribution": "地図サークルQ",
       "errorTileUrl": "",
       "cocotile": false,
       "legendUrl": "",
-      "html": ""
+      "html": "全国Q地図で公開されている1900-03年の福岡県周辺の5万分1地形図をトレースしたものです。"
     }
   ]
 }
