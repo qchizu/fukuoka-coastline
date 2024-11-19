@@ -3,7 +3,7 @@
     {
       "type": "Layer",
       "id": "fukuoka-coastline-1900",
-      "title": "1900年ごろの海岸線",
+      "title": "1900年ごろの福岡の海岸線",
       "iconUrl": "",
       "url": "https://raw.githubusercontent.com/qchizu/fukuoka-coastline/refs/heads/main/data/1900.geojson",
       "subdomains": "",
